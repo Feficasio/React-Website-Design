@@ -1,0 +1,4 @@
+1. npm install --save styled-components
+2. npm install react-router-dom
+3. npm install react-icons --save
+4. npm install react-scroll
